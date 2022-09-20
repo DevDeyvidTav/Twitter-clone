@@ -1,6 +1,6 @@
 export function Footer(){
     return (
-        <div className="bg-black text-white text-xs w-screen">    
+        <div className="bg-black text-white text-xs w-screen max-w-full">    
             <div className="flex gap-6 justify-center items-center">    
                 <p className="cursor-pointer hover:underline">Sobre</p>
                 <p className="cursor-pointer hover:underline">Central de Ajuda</p>
